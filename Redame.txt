@@ -1,0 +1,20 @@
+COMOUTER GRAPHICS AND VISUALATION WITH MINI PROJECT[18CSL67]
+
+FERRIS WHEEL:
+
+1:Open source code(main.cpp) which is inside the B-12 folder.
+2:In the terminal give the command gcc main.cpp -lGL -lGLU -lglut,
+3:Then give ./a.out.
+4:Then console window will be displayed.
+
+The followiing are the keybord events used in the project:
+	•This project contains Ferris Wheel. When the user presses ‘c/C’ key, wheel will start rotating and vice-versa.
+	•The user can control the speed of rotation by pressing ‘v/V’ or ‘x/X’ keys from keyboard where ‘v/V’ increases the speed and ‘x/X’ decreases the speed.
+	•When the user press ‘w/W’,’s/S’, ’a/A’ & ’d/D’ key, it will rotate the whole wheel into Top, Bottom, Right and Left direction.
+	•The user can also increase and decrease the number of cabins by pressing key ‘+/1’ and ‘-/0’ respectively.
+	•the user can press 'E' to exit.
+The following are the menu driven used in the project:
+	•sunlight
+	•moonlight
+
+	
